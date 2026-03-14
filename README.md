@@ -27,7 +27,7 @@ Before opening an issue, please check:
 - [ ] Have you checked existing issues?
 - [ ] Do you have the latest version?
 
-[Open an Issue Here](https://github.com/yourusername/microcell/issues)
+[Open an Issue Here](https://github.com/SkyyLightx/MicroCell-Modpack/issues)
 
 ## 📜 License
 This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
