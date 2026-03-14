@@ -30,9 +30,8 @@ Before opening an issue, please check:
 [Open an Issue Here](https://github.com/yourusername/microcell/issues)
 
 ## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-*Note: The mod files included in this pack belong to their respective authors.*
+This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
-Created by **[Your Name]**.
+Created by **[SkyyLightx]**.
 Special thanks to the Minecraft Modding Community.
